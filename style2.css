@@ -8,7 +8,7 @@
 body {
   position: relative;
   height: 100vh;
-  background: url(../imajes/confa.jpg) no-repeat center center/ cover;
+  background: url(./imajes/confa.jpg) no-repeat center center/ cover;
   display: flow-root;
 }
 
@@ -21,7 +21,7 @@ body {
   margin: 476px auto 0 20px;
   box-shadow: -4px 4px 10px rgba(12, 11, 11, 5);
 }
-
+/* ggdgdg */
 #Question-btn {
   position: relative;
   font-size: large;
@@ -121,5 +121,3 @@ body {
     box-shadow: -4px 4px 10px rgba(12, 11, 11, 5);
   }
 }
-
-
