@@ -125,12 +125,6 @@ body {
 
 
 @media (min-width: 322px) and (max-width: 428.5px) {
-  .Modal-class{
-    width: 150px;
-    height: 100px;
-    margin-left: -10%;
-
-  }
  
 #btn-div{
   margin-top:550px;
@@ -139,7 +133,7 @@ body {
   
 
 
-@media (min-width: 322px) and (max-width: 699.9px) {
+@media (min-width: 322px) {
   .Modal-class{
     width: 150px;
     height: 100px;
