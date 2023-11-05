@@ -120,6 +120,12 @@ body {
     margin: 390px auto 0 16px;
     box-shadow: -4px 4px 10px rgba(12, 11, 11, 5);
   }
+   .Modal-class{
+    width: 150px;
+    height: 100px;
+    margin-left: -14.5%;
+
+  }
 }
 
 
@@ -129,6 +135,13 @@ body {
 #btn-div{
   margin-top:550px;
   } 
+
+  .Modal-class{
+    width: 150px;
+    height: 100px;
+    margin-left: -25%;
+
+  }
 }
   
 
