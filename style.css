@@ -138,3 +138,13 @@ body {
 }
   
 
+
+@media (min-width: 322px) and (max-width: 699.9px) {
+  .Modal-class{
+    width: 150px;
+    height: 100px;
+    margin-left: -10%;
+
+  }
+
+}
