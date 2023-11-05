@@ -121,3 +121,20 @@ body {
     box-shadow: -4px 4px 10px rgba(12, 11, 11, 5);
   }
 }
+
+
+
+@media (min-width: 322px) and (max-width: 428.5px) {
+  .Modal-class{
+    width: 150px;
+    height: 100px;
+    margin-left: -10%;
+
+  }
+ 
+#btn-div{
+  margin-top:550px;
+  } 
+}
+  
+
